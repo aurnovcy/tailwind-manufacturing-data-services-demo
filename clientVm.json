@@ -10,7 +10,7 @@
     },
     "vmName": {
       "type": "string",
-      "defaultValue": "Tailwind-Data-Client",
+      "defaultValue": "Tailwind-Data",
       "metadata": {
         "description": "The name of your Virtual Machine"
       }
